@@ -1,0 +1,7 @@
+G:\Devika\HackerRank\30daysofcode\code6\code6\bin\Debug\code6.exe.config
+G:\Devika\HackerRank\30daysofcode\code6\code6\bin\Debug\code6.exe
+G:\Devika\HackerRank\30daysofcode\code6\code6\bin\Debug\code6.pdb
+G:\Devika\HackerRank\30daysofcode\code6\code6\obj\Debug\code6.csprojAssemblyReference.cache
+G:\Devika\HackerRank\30daysofcode\code6\code6\obj\Debug\code6.csproj.CoreCompileInputs.cache
+G:\Devika\HackerRank\30daysofcode\code6\code6\obj\Debug\code6.exe
+G:\Devika\HackerRank\30daysofcode\code6\code6\obj\Debug\code6.pdb
